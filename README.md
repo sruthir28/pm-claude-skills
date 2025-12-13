@@ -71,8 +71,8 @@ MIT - Use freely, modify, share, build your own.
 
 ## Connect
 
-- LinkedIn: [Add your LinkedIn URL]
-- More weekend builds: [Add your portfolio/other projects]
+- LinkedIn: [Sruthi Chintakunta] (https://www.linkedin.com/in/sruthichintakunta/)
+- More weekend builds: [McKinsey Consulting Claude Skills] (https://github.com/sruthir28/mckinsey-claude-skills)
 
 ---
 
