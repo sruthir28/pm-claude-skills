@@ -15,7 +15,7 @@ Helps you prioritize features, initiatives, and tasks using 4 proven PM framewor
 
 - ✅ Applies frameworks consistently every time
 - ✅ Works with whatever data you have (or don't have)
-- ✅ **Helps estimate when you lack data** - Claude provides baseline ranges based on industry patterns
+- ✅ Helps estimate when you lack data - Claude provides baseline ranges based on industry patterns
 - ✅ Outputs clean tables you can share with stakeholders
 - ✅ Explains when to use which framework
 - ✅ Saves hours of debate and analysis paralysis
